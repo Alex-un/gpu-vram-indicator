@@ -23,7 +23,7 @@ A GNOME Shell extension that shows NVIDIA VRAM usage in the top bar and lets you
 ## Install
 
 ```bash
-git clone https://github.com/handy-computer/gpu-vram-indicator.git
+git clone https://github.com/Alex-un/gpu-vram-indicator.git
 cp -r gpu-vram-indicator ~/.local/share/gnome-shell/extensions/gpu-vram-indicator@yori.local
 # log out and back in, or press Alt+F2, type "r", Enter (X11)
 ```
