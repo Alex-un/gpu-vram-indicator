@@ -1,0 +1,6 @@
+{
+  "uuid": "gpu-vram-indicator@yori.local",
+  "name": "GPU VRAM Indicator",
+  "description": "Top-bar NVIDIA VRAM usage; click for per-process VRAM, utilization and power draw.",
+  "shell-version": ["46.0"]
+}
